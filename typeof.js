@@ -31,4 +31,4 @@ console.log(myTypeof(new Date())) // Date
 console.log(myTypeof(new RegExp())) // RegExp
 console.log(myTypeof(new Set())) // Set
 console.log(myTypeof(new Map())) // Map
-console.log(myTypeof(new Function())) // Map
+console.log(myTypeof(new Function())) // function
